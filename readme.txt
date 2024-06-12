@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Creating a new branch is quick and simple.
 --no-ff
 anything is possible
+no pain no gain
